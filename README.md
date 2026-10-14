@@ -29,9 +29,11 @@ A = [[3, -3, 4], [2, -3, 4], [0, -1, 1]]
 The skill encourages Claude to write:
 
 ```text
-    [ 3  -3  4 ]
-A = [ 2  -3  4 ]
-    [ 0  -1  1 ]
+    ┌             ┐
+    │  3  -3   4  │
+A = │  2  -3   4  │
+    │  0  -1   1  │
+    └             ┘
 ```
 
 ## Installation
